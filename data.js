@@ -109,50 +109,56 @@ const data = [
 
     //13
     {
-        artist: "",
-        genre: "",
-        song: "",
-        image: "",
+        artist: "Thousand Foot Krutch",
+        genre: "Alternative",
+        song: "Courtesy Call",
+        image: "https://tinyurl.com/es6playlist13",
+        //https://www.youtube.com/watch?v=hxqW1Eq0iP4
     },
 
     //14
     {
-        artist: "",
-        genre: "",
-        song: "",
-        image: "",
+        artist: "Thousand Foot Krutch",
+        genre: "Alternative",
+        song: "Untraveled Road",
+        image: "https://tinyurl.com/es6playlist14",
+        //https://www.youtube.com/watch?v=jSD5vSSGLOM
     },
 
     //15
     {
-        artist: "",
-        genre: "",
-        song: "",
-        image: "",
+        artist: "Panic! at the Disco",
+        genre: "Alternative",
+        song: "Emperor's New Clothes",
+        image: "https://tinyurl.com/es6playlist15",
+        //https://www.youtube.com/watch?v=7qFF2v8VsaA
     },
 
     //16
     {
-        artist: "",
-        genre: "",
-        song: "",
-        image: "",
+        artist: "Panic! at the Disco",
+        genre: "Alternative",
+        song: "King Of The Clouds",
+        image: "https://tinyurl.com/es6playlist16",
+        //https://www.youtube.com/watch?v=6i7hIUegbQs
     },
 
     //17
     {
-        artist: "",
-        genre: "",
-        song: "",
-        image: "",
+        artist: "House Of Heroes",
+        genre: "Alternative",
+        song: "Choose Your Blade",
+        image: "https://tinyurl.com/es6playlist17",
+        //https://www.youtube.com/watch?v=BctWjTEcu2g
     },
 
     //18
     {
-        artist: "",
-        genre: "",
-        song: "",
-        image: "",
+        artist: "Starset",
+        genre: "Alternative",
+        song: "My Demons",
+        image: "https://tinyurl.com/es6playlist18",
+        //https://www.youtube.com/watch?v=LSvOTw8UH6s
     },
 
     //19
