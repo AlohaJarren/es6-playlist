@@ -234,34 +234,38 @@ const data = [
 
     //27
     {
-        artist: "",
-        genre: "",
-        song: "",
-        image: "",
+        artist: "Ice Cube",
+        genre: "Hip-Hop",
+        song: "Friday",
+        image: "https://tinyurl.com/es6playlist27",
+        //https://www.youtube.com/watch?v=3mqhwhSerAw
     },
 
     //28
     {
-        artist: "",
-        genre: "",
-        song: "",
-        image: "",
+        artist: "Miguel",
+        genre: "Hip-Hop",
+        song: "Sky Walker",
+        image: "https://tinyurl.com/es6playlist28",
+        //https://www.youtube.com/watch?v=76O3w4pt0CA
     },
 
     //29
     {
-        artist: "",
-        genre: "",
-        song: "",
-        image: "",
+        artist: "Charlie Puth",
+        genre: "Hip-Hop",
+        song: "LA Girls",
+        image: "https://tinyurl.com/es6playlist29",
+        //https://www.youtube.com/watch?v=iW3Than5jrs
     },
 
     //30
     {
-        artist: "",
-        genre: "",
-        song: "",
-        image: "",
+        artist: "Jay Rock",
+        genre: "Jarren's Recommended",
+        song: "WIN",
+        image: "https://tinyurl.com/es6playlist35",
+        //https://www.youtube.com/watch?v=JrO46CJd9ns
     },
 
     //31
@@ -288,32 +292,34 @@ const data = [
         genre: "Jarren's Recommended",
         song: "Billionaire",
         image: "https://tinyurl.com/es6playlist33",
+        //https://www.youtube.com/watch?v=8aRor905cCw
     },
 
     //34
     {
-        artist: "Panic! at the Disco",
+        artist: "AJ Rafael",
         genre: "Jarren's Recommended",
-        song: "Emperor's New Clothes",
-        image: "https://tinyurl.com/es6playlist15",
-        //https://www.youtube.com/watch?v=7qFF2v8VsaA
+        song: "She Was Mine (2018)",
+        image: "https://tinyurl.com/es6playlist34",
+        //https://www.youtube.com/watch?v=ABNvZNigUEQ
     },
 
     //35
     {
-        artist: "",
+        artist: "Rixton",
         genre: "Jarren's Recommended",
-        song: "",
-        image: "",
-        //https://www.youtube.com/watch?v=8aRor905cCw
+        song: "Me and My Broken Heart",
+        image: "https://tinyurl.com/es6playlist30",
+        //https://www.youtube.com/watch?v=7JJfJgyHYwU
     },
 
     //36
     {
-        artist: "",
+        artist: "NightcoreGalaxy",
         genre: "Jarren's Recommended",
-        song: "",
-        image: "",
+        song: "Little Poor Me",
+        image: "https://tinyurl.com/es6playlist36",
+        //https://www.youtube.com/watch?v=NHFsdWEBkmg
     },
 
 ]
