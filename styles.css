@@ -1,7 +1,6 @@
 * {
-    border: 1px solid black;
+    font-family: 'Roboto', sans-serif;
 }
-
 body,html,#main {
     margin: 0;
     width: 100%;
@@ -10,18 +9,12 @@ body,html,#main {
 
 #musicContainer {
     display: inline-flex;
-    width: 96%;
-    height: 76%;
-    padding: 2%;
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
     overflow: scroll;
-}
-
-#currentMusic {
     width: 100%;
-    height: 20%;
+    height: 90%;
 }
 
 .musicJar {
@@ -45,26 +38,67 @@ body,html,#main {
 }
 
 .musicJar > h2 {
-    font-size: 150%;
+    font-size: 100%;
     margin: 0 0 2% 0;
 }
 
 .musicJar > h3 {
-    font-size: 90%;
+    font-size: 80%;
+}
+
+.musicJar > p {
+    display: none;
+}
+
+#currentMusic {
+    width: 100%;
+    height: 14.5%;
+    align-items: center;
 }
 
 #currentMusic > * {
     display: inline-flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-around;
+    vertical-align: middle;
 }
 
 #currentMusic > img{
     height: 100%;
-    width: 11%;
 }
 
 #currentMusic > p {
     font-size: 125%;
     margin: auto 0;
+}
+
+#superMain {
+    width: 96%;
+    height: 76%;
+    padding: 2%;
+}
+
+#categoryBar {
+    display: inline-flex;
+    flex-direction: row;
+    width: 96%;
+    height: 6%;
+    padding:2%; 
+    justify-content: space-around;
+}
+
+#categoryBar > * {
+    display: inline-block;
+    font: 100%;
+
+}
+
+#genre {
+    font-size: 75%;
+}
+
+/* for scrollbar */
+::-webkit-scrollbar {
+    width: 0px;  /* remove scrollbar space */
+    background: transparent;  /* optional: just make scrollbar invisible */
 }
