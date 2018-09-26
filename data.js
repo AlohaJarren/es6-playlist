@@ -163,66 +163,73 @@ const data = [
 
     //19
     {
-        artist: "",
-        genre: "",
-        song: "",
-        image: "",
+        artist: "Shay & Aragon",
+        genre: "94Songz",
+        song: "Judo Gang",
+        image: "https://tinyurl.com/es6playlist19",
+        //https://soundcloud.com/shaydane-tayaba-806669071/judo-gang
     },
 
     //20
     {
-        artist: "",
-        genre: "",
-        song: "",
-        image: "",
+        artist: "Shay & Aragon",
+        genre: "94Songz",
+        song: "Lunchables",
+        image: "https://tinyurl.com/es6playlist20",
     },
 
     //21
     {
-        artist: "",
-        genre: "",
-        song: "",
-        image: "",
+        artist: "Young G-Lo",
+        genre: "94Songz",
+        song: "Born Ready",
+        image: "https://tinyurl.com/es6playlist21",
+        //https://soundcloud.com/user-495526144-609519604/born-ready-1
     },
 
     //22
     {
-        artist: "",
-        genre: "",
-        song: "",
-        image: "",
+        artist: "Shay & Aragon",
+        genre: "94Songz",
+        song: "Listen",
+        image: "https://tinyurl.com/es6playlist22",
+        //https://soundcloud.com/user-262296450/listen-ftshayboii-prod8rokeboy
     },
 
     //23
     {
-        artist: "",
-        genre: "",
-        song: "",
-        image: "",
+        artist: "Aragon",
+        genre: "94Songz",
+        song: "The Best",
+        image: "https://tinyurl.com/es6playlist23",
+        //https://soundcloud.com/user-262296450/the-best-prod8rokeboy
     },
 
     //24
     {
-        artist: "",
-        genre: "",
-        song: "",
-        image: "",
+        artist: "KiX & J-Walker",
+        genre: "94Songz",
+        song: "Hometown",
+        image: "https://tinyurl.com/es6playlist24",
+        //https://www.youtube.com/watch?v=GnANFCriOWE
     },
 
     //25
     {
-        artist: "",
-        genre: "",
-        song: "",
-        image: "",
+        artist: "Russ",
+        genre: "Hip-Hop",
+        song: "Yung God",
+        image: "https://tinyurl.com/es6playlist25",
+        //https://www.youtube.com/watch?v=uVnzigPQDNk
     },
 
     //26
     {
-        artist: "",
-        genre: "",
-        song: "",
-        image: "",
+        artist: "Gianni & Kyle",
+        genre: "Hip-Hop",
+        song: "Silhouette",
+        image: "https://tinyurl.com/es6playlist26",
+        //https://www.youtube.com/watch?v=8rTlhz0rfjg
     },
 
     //27
@@ -259,48 +266,52 @@ const data = [
 
     //31
     {
-        artist: "",
-        genre: "",
-        song: "",
-        image: "",
+        artist: "Ne-Yo & T-Pain",
+        genre: "Jarren's Recommended",
+        song: "She Knows (Remix)",
+        image: "https://tinyurl.com/es6playlist31",
+        //https://www.youtube.com/watch?v=lCtOE86kMkc
     },
 
     //32
     {
-        artist: "",
-        genre: "",
-        song: "",
-        image: "",
+        artist: "Far East Movement",
+        genre: "Jarren's Recommended",
+        song: "Rocketeer",
+        image: "https://tinyurl.com/es6playlist32",
+        //https://www.youtube.com/watch?v=hnK5sv9mWeo
     },
 
     //33
     {
-        artist: "",
-        genre: "",
-        song: "",
-        image: "",
+        artist: "Travie McCoy & Bruno Mars",
+        genre: "Jarren's Recommended",
+        song: "Billionaire",
+        image: "https://tinyurl.com/es6playlist33",
     },
 
     //34
     {
-        artist: "",
-        genre: "",
-        song: "",
-        image: "",
+        artist: "Panic! at the Disco",
+        genre: "Jarren's Recommended",
+        song: "Emperor's New Clothes",
+        image: "https://tinyurl.com/es6playlist15",
+        //https://www.youtube.com/watch?v=7qFF2v8VsaA
     },
 
     //35
     {
         artist: "",
-        genre: "",
+        genre: "Jarren's Recommended",
         song: "",
         image: "",
+        //https://www.youtube.com/watch?v=8aRor905cCw
     },
 
     //36
     {
         artist: "",
-        genre: "",
+        genre: "Jarren's Recommended",
         song: "",
         image: "",
     },
