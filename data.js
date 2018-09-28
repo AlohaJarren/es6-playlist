@@ -92,7 +92,7 @@ const data = [
     {
         artist: "Alex Aiono",
         genre: "Pop YT",
-        song: "One Dance/Hasta el Amanecer Mashup",
+        song: "One Dance/Hasta el Amanecer",
         image: "https://tinyurl.com/es6playlist10",
         //https://www.youtube.com/watch?v=Kuz3DUNZaC8
         file: 'Music/9.mp3'
