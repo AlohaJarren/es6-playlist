@@ -25,7 +25,7 @@ for(var i=0; i < dataHTML.length; i++) {
     musicElement.addEventListener("click",() => {
         currentPic.src = musicElement.getElementsByTagName('img')[0].src;
         currentTitle.innerHTML = musicElement.getElementsByTagName('h2')[0].innerHTML;
-        currentFile.innerHTML = musicElement.getElementsByTagName('p')[0].innerHTML; //comment this out
+        currentFile.src = musicElement.getElementsByTagName('p')[0].innerHTML; //comment this out
         currentFile.play(); //this too
     });
 
