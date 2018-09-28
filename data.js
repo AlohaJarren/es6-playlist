@@ -185,7 +185,7 @@ const data = [
         song: "Judo Gang",
         image: "https://tinyurl.com/es6playlist19",
         //https://soundcloud.com/shaydane-tayaba-806669071/judo-gang
-        file: 'music/0.mp3'
+        file: 'music/18.mp3'
     },
 
     //20
@@ -194,6 +194,7 @@ const data = [
         genre: "94Songz",
         song: "Lunchables",
         image: "https://tinyurl.com/es6playlist20",
+        file: 'music/19.mp3'
     },
 
     //21
@@ -203,6 +204,7 @@ const data = [
         song: "Born Ready",
         image: "https://tinyurl.com/es6playlist21",
         //https://soundcloud.com/user-495526144-609519604/born-ready-1
+        file: 'music/20.mp3'
     },
 
     //22
@@ -212,6 +214,7 @@ const data = [
         song: "Listen",
         image: "https://tinyurl.com/es6playlist22",
         //https://soundcloud.com/user-262296450/listen-ftshayboii-prod8rokeboy
+        file: 'music/21.mp3'
     },
 
     //23
@@ -221,6 +224,7 @@ const data = [
         song: "The Best",
         image: "https://tinyurl.com/es6playlist23",
         //https://soundcloud.com/user-262296450/the-best-prod8rokeboy
+        file: 'music/22.mp3'
     },
 
     //24
@@ -230,6 +234,7 @@ const data = [
         song: "Hometown",
         image: "https://tinyurl.com/es6playlist24",
         //https://www.youtube.com/watch?v=GnANFCriOWE
+        file: 'music/23.mp3'
     },
 
     //25
@@ -239,6 +244,7 @@ const data = [
         song: "Yung God",
         image: "https://tinyurl.com/es6playlist25",
         //https://www.youtube.com/watch?v=uVnzigPQDNk
+        file: 'music/24.mp3'
     },
 
     //26
@@ -248,6 +254,7 @@ const data = [
         song: "Silhouette",
         image: "https://tinyurl.com/es6playlist26",
         //https://www.youtube.com/watch?v=8rTlhz0rfjg
+        file: 'music/25.mp3'
     },
 
     //27
@@ -257,6 +264,7 @@ const data = [
         song: "Friday",
         image: "https://tinyurl.com/es6playlist27",
         //https://www.youtube.com/watch?v=3mqhwhSerAw
+        file: 'music/26.mp3'
     },
 
     //28
@@ -266,6 +274,7 @@ const data = [
         song: "Sky Walker",
         image: "https://tinyurl.com/es6playlist28",
         //https://www.youtube.com/watch?v=76O3w4pt0CA
+        file: 'music/27.mp3'
     },
 
     //29
@@ -275,15 +284,17 @@ const data = [
         song: "LA Girls",
         image: "https://tinyurl.com/es6playlist29",
         //https://www.youtube.com/watch?v=iW3Than5jrs
+        file: 'music/28.mp3'
     },
 
     //30
     {
         artist: "Jay Rock",
-        genre: "Hip-Hop",
+        genre: "Jarren's Recommended",
         song: "WIN",
         image: "https://tinyurl.com/es6playlist35",
         //https://www.youtube.com/watch?v=JrO46CJd9ns
+        file: 'music/29.mp3'
     },
 
     //31
@@ -293,6 +304,7 @@ const data = [
         song: "She Knows (Remix)",
         image: "https://tinyurl.com/es6playlist31",
         //https://www.youtube.com/watch?v=lCtOE86kMkc
+        file: 'music/30.mp3'
     },
 
     //32
@@ -302,6 +314,7 @@ const data = [
         song: "Rocketeer",
         image: "https://tinyurl.com/es6playlist32",
         //https://www.youtube.com/watch?v=hnK5sv9mWeo
+        file: 'music/31.mp3'
     },
 
     //33
@@ -311,6 +324,7 @@ const data = [
         song: "Billionaire",
         image: "https://tinyurl.com/es6playlist33",
         //https://www.youtube.com/watch?v=8aRor905cCw
+        file: 'music/32.mp3'
     },
 
     //34
@@ -320,6 +334,7 @@ const data = [
         song: "She Was Mine (2018)",
         image: "https://tinyurl.com/es6playlist34",
         //https://www.youtube.com/watch?v=ABNvZNigUEQ
+        file: 'music/33.mp3'
     },
 
     //35
@@ -329,6 +344,7 @@ const data = [
         song: "Me and My Broken Heart",
         image: "https://tinyurl.com/es6playlist30",
         //https://www.youtube.com/watch?v=7JJfJgyHYwU
+        file: 'music/34.mp3'
     },
 
     //36
@@ -338,6 +354,7 @@ const data = [
         song: "Little Poor Me",
         image: "https://tinyurl.com/es6playlist36",
         //https://www.youtube.com/watch?v=NHFsdWEBkmg
+        file: 'music/35.mp3'
     },
 
-]
+];
