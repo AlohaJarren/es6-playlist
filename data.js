@@ -280,7 +280,7 @@ const data = [
     //30
     {
         artist: "Jay Rock",
-        genre: "Jarren's Recommended",
+        genre: "Hip-Hop",
         song: "WIN",
         image: "https://tinyurl.com/es6playlist35",
         //https://www.youtube.com/watch?v=JrO46CJd9ns
